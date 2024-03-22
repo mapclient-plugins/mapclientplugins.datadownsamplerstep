@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="datadownsamplerstep">
+    <file>images/utility.png</file>
+  </qresource>
+</RCC>
